@@ -105,9 +105,9 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - midspan_panel_clip_3mm_x12.stl
     - midspan_panel_clip_6mm_x3.stl
     - z_belt_cover_a_x2.stl
+    - z_belt_cover_b_x2.stl
 <br><br>
 - [SKIRTS](#skirts)
-    - z_belt_cover_b_x2.stl
     - front_rear_skirt_a_350_x2.stl
     - front_rear_skirt_b_350_x2.stl
     - side_skirt_a_350_x2.stl
@@ -1064,6 +1064,17 @@ This is a reference for hopefully all printed parts needed for a functional and 
             <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/z_belt_cover_a_x2.stl">z_belt_cover_a_x2.stl</a>
         </td>
     </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/z_belt_cover_b_x2.png">
+                <img src="img/thumbs/z_belt_cover_b_x2.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/z_belt_cover_b_x2.stl">z_belt_cover_b_x2.stl</a>
+        </td>
+    </tr>
 </table>
 
 
@@ -1071,22 +1082,11 @@ This is a reference for hopefully all printed parts needed for a functional and 
 <table>
     <tr>
         <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/z_belt_cover_b_x2.png">
-                <img src="img/thumbs/z_belt_cover_b_x2.png">
-            </a>
-        </td>
-        <td width=639>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/z_belt_cover_b_x2.stl">z_belt_cover_b_x2.stl</a>
-        </td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td>
             <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/front_rear_skirt_a_350_x2.png">
                 <img src="img/thumbs/front_rear_skirt_a_350_x2.png">
             </a>
         </td>
-        <td>
+        <td width=639>
             <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/front_rear_skirt_a_350_x2.stl">front_rear_skirt_a_350_x2.stl</a>
         </td>
     </tr>
