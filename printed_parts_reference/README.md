@@ -1,10 +1,10 @@
+This is a reference for hopefully all printed parts needed for a functional and decorated Voron 2.4 build.
 
-<!-- This is a reference for hopefully all printed parts needed for a functional and decorated Voron 2.4 build. -->
 
 - [CLIPS](#clips)
     - [a]_z_belt_clip_lower_x4.stl
     - [a]_z_belt_clip_upper_x4.stl
-
+<br><br>
 - [AB DRIVE UNITS](#ab-drive-units)
     - a_drive_frame_lower.stl
     - a_drive_frame_upper.stl
@@ -12,7 +12,7 @@
     - b_drive_frame_upper.stl
     - [a]_z_chain_retainer_bracket_x2.stl
     - [a]_cable_cover.stl
-
+<br><br>
 - [FRONT IDLERS](#front-idlers)
     - front_idler_left_lower.stl
     - front_idler_left_upper.stl
@@ -20,7 +20,7 @@
     - front_idler_right_upper.stl
     - [a]_tensioner_left.stl
     - [a]_tensioner_right.stl
-
+<br><br>
 - [X-CARRIAGE](#x-carriage)
     - blower_housing_rear.stl
     - hotend_fan_mount.stl
@@ -30,7 +30,7 @@
     - x_carriage_pivot_block.stl
     - [a]_belt_clamp_x2.stl
     - [a]_blower_housing_front.stl
-
+<br><br>
 - [TOOLHEAD](#toolhead)
     - printhead_front_v6.stl
     - printhead_rear_v6.stl
@@ -42,7 +42,7 @@
     - [a]_connector_cover.stl
     - [a]_guidler.stl
     - [a]_latch.stl
-
+<br><br>
 - [XY-JOINTS](#xy-joints)
     - xy_joint_left_lower.stl
     - xy_joint_left_upper.stl
@@ -52,12 +52,12 @@
     - [a]_endstop_pod_microswitch.stl
     - [a]_xy_joint_cable_bridge_generic.stl
     - [a]_xy_joint_cable_bridge_igus.stl
-
+<br><br>
 - [Z-JOINTS](#z-joints)
     - z_joint_lower_x4.stl
     - z_joint_upper_x4.stl
     - z_joint_upper_hall_effect.stl
-
+<br><br>
 - [Z-DRIVE](#z-drive)
     - z_drive_main_a_x2.stl
     - z_drive_main_b_x2.stl
@@ -71,19 +71,19 @@
     - [a]_belt_tensioner_b_x2.stl
     - [a]_z_drive_baseplate_a_x2.stl
     - [a]_z_drive_baseplate_b_x2.stl
-
+<br><br>
 - [Z-IDLERS](#z-idlers)
     - z_tensioner_bracket_a_x2.stl
     - z_tensioner_bracket_b_x2.stl
     - [a]_z_tensioner_x4_9mm.stl
     - [a]_z_tensioner_x4_6mm.stl
-
+<br><br>
 - [MISCELLANEOUS](#miscellaneous)
     - nozzle_probe.stl
     - rail_installation_guide_center_x2.stl
     - bowen_retainer.stl
     - spool_holder.stl
-
+<br><br>
 - [ELECTRONICS MOUNTING](#electronics-mounting)
     - plug_panel_filtered_mains.stl
     - lrs_psu_bracket_clip.stl
@@ -92,7 +92,7 @@
     - pcb_din_clip_x3.stl
     - Skr_1.3_bracket_x2.stl
     - BTT Oct
-
+<br><br>
 - [PANEL MOUNTING](#panel-mounting)
     - door_hinge_x4.stl
     - handle_a_x2.stl
@@ -105,7 +105,7 @@
     - midspan_panel_clip_3mm_x12.stl
     - midspan_panel_clip_6mm_x3.stl
     - z_belt_cover_a_x2.stl
-
+<br><br>
 - [SKIRTS](#skirts)
     - z_belt_cover_b_x2.stl
     - front_rear_skirt_a_350_x2.stl
@@ -116,7 +116,7 @@
     - [a]_60mm_fan_blank_insert.stl
     - [a]_belt_guard_a_x2.stl
     - [a]_belt_guard_b_x2.stl
-
+<br><br>
 - [LCD MODULE](#lcd-module)
     - mini12864_case_front.stl
     - mini12864_case_rear.stl
