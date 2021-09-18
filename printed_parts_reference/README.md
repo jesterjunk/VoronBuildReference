@@ -99,7 +99,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - mini12864_spacer.stl
     - [a]_mini12864_case_hinge.stl
 <br><br>
-- [EXHAUST FILTER](exhaust-filter)
+- [EXHAUST FILTER](#exhaust-filter)
     - exhaust_filter_grill.stl
     - exhaust_filter_housing.stl
     - [a]_exhaust_filter_mount_x2.stl
