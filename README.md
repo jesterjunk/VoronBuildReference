@@ -1,6 +1,6 @@
 <h1 align=center>Voron Build Reference</h1>
 
-This is a reference for my Voron 2.4 build.
+This is a reference for my Voron 2.4 build.<br><br>
 
 
 ## Size
