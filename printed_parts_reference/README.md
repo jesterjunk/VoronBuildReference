@@ -933,10 +933,12 @@ This is a reference for hopefully all printed parts needed for a functional and 
     <tr></tr>
     <tr>
         <td>
-            BTT Oct
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/Octopus_bracket_2pc.png">
+                <img src="img/thumbs/Octopus_bracket_2pc.png">
+            </a>
         </td>
         <td>
-            BTT Oct
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/Octopus_bracket_2pc.stl">Octopus_bracket_2pc.stl</a>
         </td>
     </tr>
 </table>
