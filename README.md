@@ -25,19 +25,19 @@ V6
     </tr>
     <tr></tr>
     <tr>
-        <td>Primary</td>
-        <td>Keene Village Plastics</td>
-        <td>Black</td>
-        <td>ABS</td>
-        <td><a href="https://www.villageplastics.com/product/the-filament-koil/">FG0408 01.2-1.75MM-BK-1KG-K</a></td>
+        <td align=right>Primary</td>
+        <td align=center>Keene Village Plastics</td>
+        <td align=center>Black</td>
+        <td align=center>ABS</td>
+        <td align=left><a href="https://www.villageplastics.com/product/the-filament-koil/">FG0408 01.2-1.75MM-BK-1KG-K</a></td>
     </tr>
     <tr></tr>
     <tr>
-        <td>Accent</td>
-        <td>Keene Village Plastics</td>
-        <td>Voron Fluorescent Red</td>
-        <td>ABS</td>
-        <td><a href="https://www.villageplastics.com/product/the-filament-koil/">FG2069 01-1.75MM-VRNRD-538.7-1KG-K</a></td>
+        <td align=right>Accent</td>
+        <td align=center>Keene Village Plastics</td>
+        <td align=center>Voron Fluorescent Red</td>
+        <td align=center>ABS</td>
+        <td align=left><a href="https://www.villageplastics.com/product/the-filament-koil/">FG2069 01-1.75MM-VRNRD-538.7-1KG-K</a></td>
     </tr>
 </table>
 
@@ -52,7 +52,7 @@ This kit includes everything accept printed parts.
 ## Wishlist
 
 [Slice Engineering® Mosquito Magnum+](https://www.sliceengineering.com/products/mosquito-magnum-plus)\
-$339.99 Mosquito® Magnum+ 1.75 Air-Cooled Bundle - w/ 50W Heater and Single RTD Pt1000
+$339.99 Mosquito® Magnum+ 1.75 Air-Cooled Bundle - w/ 50W Heater and Single RTD Pt1000\
 $474.99 Mosquito® Magnum+ 1.75 Liquid-Cooled Bundle - w/ 100W Heater and Dual RTD Pt1000
 
 [Slice Engineering® Vanadium™ Nozzles](https://www.sliceengineering.com/products/vanadium-nozzle?variant=29783462510664)
