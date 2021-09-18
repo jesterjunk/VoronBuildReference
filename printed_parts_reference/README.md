@@ -1,10 +1,11 @@
-This is a reference for hopefully all printed parts needed for a functional and decorated Voron 2.4 build.
+
+<!-- This is a reference for hopefully all printed parts needed for a functional and decorated Voron 2.4 build. -->
 
 - [CLIPS](#clips)
     - [a]_z_belt_clip_lower_x4.stl
     - [a]_z_belt_clip_upper_x4.stl
 
-- [AB DRIVE UNITS](ab-drive-units)
+- [AB DRIVE UNITS](#ab-drive-units)
     - a_drive_frame_lower.stl
     - a_drive_frame_upper.stl
     - b_drive_frame_lower.stl
@@ -12,7 +13,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_z_chain_retainer_bracket_x2.stl
     - [a]_cable_cover.stl
 
-- [FRONT IDLERS](front-idlers)
+- [FRONT IDLERS](#front-idlers)
     - front_idler_left_lower.stl
     - front_idler_left_upper.stl
     - front_idler_right_lower.stl
@@ -20,7 +21,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_tensioner_left.stl
     - [a]_tensioner_right.stl
 
-- [X-CARRIAGE](x-carriage)
+- [X-CARRIAGE](#x-carriage)
     - blower_housing_rear.stl
     - hotend_fan_mount.stl
     - probe_retainer_bracket.stl
@@ -30,7 +31,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_belt_clamp_x2.stl
     - [a]_blower_housing_front.stl
 
-- [TOOLHEAD](toolhead)
+- [TOOLHEAD](#toolhead)
     - printhead_front_v6.stl
     - printhead_rear_v6.stl
     - chain_anchor.stl
@@ -42,7 +43,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_guidler.stl
     - [a]_latch.stl
 
-- [XY-JOINTS](xy-joints)
+- [XY-JOINTS](#xy-joints)
     - xy_joint_left_lower.stl
     - xy_joint_left_upper.stl
     - xy_joint_right_lower.stl
@@ -52,12 +53,12 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_xy_joint_cable_bridge_generic.stl
     - [a]_xy_joint_cable_bridge_igus.stl
 
-- [Z-JOINTS](z-joints)
+- [Z-JOINTS](#z-joints)
     - z_joint_lower_x4.stl
     - z_joint_upper_x4.stl
     - z_joint_upper_hall_effect.stl
 
-- [Z-DRIVE](z-drive)
+- [Z-DRIVE](#z-drive)
     - z_drive_main_a_x2.stl
     - z_drive_main_b_x2.stl
     - z_drive_retainer_a_x2.stl
@@ -71,19 +72,19 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_z_drive_baseplate_a_x2.stl
     - [a]_z_drive_baseplate_b_x2.stl
 
-- [Z-IDLERS](z-idlers)
+- [Z-IDLERS](#z-idlers)
     - z_tensioner_bracket_a_x2.stl
     - z_tensioner_bracket_b_x2.stl
     - [a]_z_tensioner_x4_9mm.stl
     - [a]_z_tensioner_x4_6mm.stl
 
-- [MISCELLANEOUS](miscellaneous)
+- [MISCELLANEOUS](#miscellaneous)
     - nozzle_probe.stl
     - rail_installation_guide_center_x2.stl
     - bowen_retainer.stl
     - spool_holder.stl
 
-- [ELECTRONICS MOUNTING](electronics-mounting)
+- [ELECTRONICS MOUNTING](#electronics-mounting)
     - plug_panel_filtered_mains.stl
     - lrs_psu_bracket_clip.stl
     - raspberrypi_bracket.stl
@@ -92,7 +93,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - Skr_1.3_bracket_x2.stl
     - BTT Oct
 
-- [PANEL MOUNTING](panel-mounting)
+- [PANEL MOUNTING](#panel-mounting)
     - door_hinge_x4.stl
     - handle_a_x2.stl
     - handle_b_x2.stl
@@ -105,7 +106,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - midspan_panel_clip_6mm_x3.stl
     - z_belt_cover_a_x2.stl
 
-- [SKIRTS](skirts)
+- [SKIRTS](#skirts)
     - z_belt_cover_b_x2.stl
     - front_rear_skirt_a_350_x2.stl
     - front_rear_skirt_b_350_x2.stl
@@ -116,7 +117,7 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_belt_guard_a_x2.stl
     - [a]_belt_guard_b_x2.stl
 
-- [LCD MODULE](lcd-module)
+- [LCD MODULE](#lcd-module)
     - mini12864_case_front.stl
     - mini12864_case_rear.stl
     - mini12864_spacer.stl
