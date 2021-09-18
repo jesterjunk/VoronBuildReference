@@ -5,12 +5,12 @@ This is a reference for my Voron 2.4 build.
 
 ## Size
 
-350\*350\*350mm
+350\*350\*350mm<br><br>
 
 
-## Hotend Type
+## Hotend
 
-V6
+V6<br><br>
 
 
 ## Filament For Printed Parts
@@ -39,21 +39,21 @@ V6
         <td align=center>ABS</td>
         <td align=left><a href="https://www.villageplastics.com/product/the-filament-koil/">FG2069 01-1.75MM-VRNRD-538.7-1KG-K</a></td>
     </tr>
-</table>
+</table><br>
 
 
 ## Printer Kit
 
 [formbot3d.com](https://www.formbot3d.com/products/voron-24-corexy-3d-printer-kit-with-different-print-sizes-for-choice-161)
 
-This kit includes everything accept printed parts.
+This kit includes everything accept printed parts.<br><br><br><br>
 
 
 ## Wishlist
 
 [Slice Engineering® Mosquito Magnum+](https://www.sliceengineering.com/products/mosquito-magnum-plus)\
 $339.99 Mosquito® Magnum+ 1.75 Air-Cooled Bundle - w/ 50W Heater and Single RTD Pt1000\
-$474.99 Mosquito® Magnum+ 1.75 Liquid-Cooled Bundle - w/ 100W Heater and Dual RTD Pt1000
+$474.99 Mosquito® Magnum+ 1.75 Liquid-Cooled Bundle - w/ 100W Heater and Dual RTD Pt1000<br><br>
 
 [Slice Engineering® Vanadium™ Nozzles](https://www.sliceengineering.com/products/vanadium-nozzle?variant=29783462510664)
 
