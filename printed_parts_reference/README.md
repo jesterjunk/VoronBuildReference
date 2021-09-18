@@ -15,7 +15,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/%5Ba%5D_z_belt_clip_lower_x4.png" target="_blank">
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/%5Ba%5D_z_belt_clip_lower_x4.png">
                 <img src="img/thumbs/[a]_z_belt_clip_lower_x4.png">
             </a>
         </td>
@@ -26,7 +26,7 @@
     <tr></tr>
     <tr>
         <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/[a]_z_belt_clip_upper_x4.png" target="_blank">
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/[a]_z_belt_clip_upper_x4.png">
                 <img src="img/thumbs/[a]_z_belt_clip_upper_x4.png">
             </a>
         </td>
