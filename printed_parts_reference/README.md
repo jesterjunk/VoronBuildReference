@@ -20,7 +20,7 @@
             </a>
         </td>
         <td width=639>
-            <a href="https://raw.githubusercontent.com/VoronDesign/Voron-2/V2.4/STLs/VORON2.4/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl">[a]_z_belt_clip_lower_x4.stl</a>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/%5Ba%5D_z_belt_clip_lower_x4.stl">[a]_z_belt_clip_lower_x4.stl</a>
         </td>
     </tr>
     <tr></tr>
@@ -31,7 +31,7 @@
             </a>
         </td>
         <td>
-            <a href="https://raw.githubusercontent.com/VoronDesign/Voron-2/Voron2.4/STLs/VORON2.4/Gantry/%5Ba%5D_z_belt_clip_upper_x4.stl">[a]_z_belt_clip_upper_x4.stl</a>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/%5Ba%5D_z_belt_clip_upper_x4.stl">[a]_z_belt_clip_upper_x4.stl</a>
         </td>
     </tr>
 </table>
