@@ -12,17 +12,6 @@
 
 
 ## CLIPS
-<div>
-    <div align=left valign=center>
-        <a href="https://raw.githubusercontent.com/VoronDesign/Voron-2/V2.4/STLs/VORON2.4/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl">[a]_z_belt_clip_lower_x4.stl</a>
-    </div>
-    <div align=right>
-        <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/%5Ba%5D_z_belt_clip_lower_x4.png" target="_blank">
-            <img src="img/thumbs/[a]_z_belt_clip_lower_x4.png">
-        </a>
-    </div>
-</div>
-
 <table>
     <tr>
         <td>
