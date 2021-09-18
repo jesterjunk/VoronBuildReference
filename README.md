@@ -13,7 +13,7 @@ This is a reference for my Voron 2.4 build.
 V6
 
 
-## Printed Part Colors
+## Filament For Printed Parts
 
 <table>
     <tr>
