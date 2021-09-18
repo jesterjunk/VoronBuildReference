@@ -51,7 +51,9 @@ This kit includes everything accept printed parts.
 
 ## Wishlist
 
-[Slice Engineering® Mosquito Magnum+](https://www.sliceengineering.com/products/mosquito-magnum-plus)
+[Slice Engineering® Mosquito Magnum+](https://www.sliceengineering.com/products/mosquito-magnum-plus)\
+$339.99 Mosquito® Magnum+ 1.75 Air-Cooled Bundle - w/ 50W Heater and Single RTD Pt1000
+$474.99 Mosquito® Magnum+ 1.75 Liquid-Cooled Bundle - w/ 100W Heater and Dual RTD Pt1000
 
 [Slice Engineering® Vanadium™ Nozzles](https://www.sliceengineering.com/products/vanadium-nozzle?variant=29783462510664)
 
