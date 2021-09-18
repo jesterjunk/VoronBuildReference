@@ -91,7 +91,19 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - rs25_psu_bracket_clip.stl
     - pcb_din_clip_x3.stl
     - Skr_1.3_bracket_x2.stl
-    - BTT Oct
+    - Octopus_bracket_2pc.stl
+<br><br>
+- [LCD MODULE](#lcd-module)
+    - mini12864_case_front.stl
+    - mini12864_case_rear.stl
+    - mini12864_spacer.stl
+    - [a]_mini12864_case_hinge.stl
+<br><br>
+- [EXHAUST FILTER](exhaust-filter)
+    - exhaust_filter_grill.stl
+    - exhaust_filter_housing.stl
+    - [a]_exhaust_filter_mount_x2.stl
+    - [a]_filter_access_cover.stl
 <br><br>
 - [PANEL MOUNTING](#panel-mounting)
     - door_hinge_x4.stl
@@ -117,11 +129,6 @@ This is a reference for hopefully all printed parts needed for a functional and 
     - [a]_belt_guard_a_x2.stl
     - [a]_belt_guard_b_x2.stl
 <br><br>
-- [LCD MODULE](#lcd-module)
-    - mini12864_case_front.stl
-    - mini12864_case_rear.stl
-    - mini12864_spacer.stl
-    - [a]_mini12864_case_hinge.stl
 
 
 ## All images
@@ -944,6 +951,102 @@ This is a reference for hopefully all printed parts needed for a functional and 
 </table>
 
 
+## LCD MODULE
+<table>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/mini12864_case_front.png">
+                <img src="img/thumbs/mini12864_case_front.png">
+            </a>
+        </td>
+        <td width=639>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/mini12864_case_front.stl">mini12864_case_front.stl</a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/mini12864_case_rear.png">
+                <img src="img/thumbs/mini12864_case_rear.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/mini12864_case_rear.stl">mini12864_case_rear.stl</a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/mini12864_spacer.png">
+                <img src="img/thumbs/mini12864_spacer.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/mini12864_spacer.stl">mini12864_spacer.stl</a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/%5Ba%5D_mini12864_case_hinge.png">
+                <img src="img/thumbs/%5Ba%5D_mini12864_case_hinge.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/%5Ba%5D_mini12864_case_hinge.stl">[a]_mini12864_case_hinge.stl</a>
+        </td>
+    </tr>
+</table>
+
+
+## EXHAUST FILTER
+<table>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/exhaust_filter_grill.png">
+                <img src="img/thumbs/exhaust_filter_grill.png">
+            </a>
+        </td>
+        <td width=639>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/exhaust_filter_grill.stl">exhaust_filter_grill.stl</a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/exhaust_filter_housing.png">
+                <img src="img/thumbs/exhaust_filter_housing.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/exhaust_filter_housing.stl">exhaust_filter_housing.stl</a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/[a]_exhaust_filter_mount_x2.png">
+                <img src="img/thumbs/[a]_exhaust_filter_mount_x2.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/[a]_exhaust_filter_mount_x2.stl">[a]_exhaust_filter_mount_x2.stl</a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/[a]_filter_access_cover.png">
+                <img src="img/thumbs/[a]_filter_access_cover.png">
+            </a>
+        </td>
+        <td>
+            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/[a]_filter_access_cover.stl">[a]_filter_access_cover.stl</a>
+        </td>
+    </tr>
+</table>
+
+
 ## PANEL MOUNTING
 <table>
     <tr>
@@ -1167,54 +1270,6 @@ This is a reference for hopefully all printed parts needed for a functional and 
         </td>
         <td>
             <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/%5Ba%5D_belt_guard_b_x2.stl">[a]_belt_guard_b_x2.stl</a>
-        </td>
-    </tr>
-</table>
-
-
-## LCD MODULE
-<table>
-    <tr>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/mini12864_case_front.png">
-                <img src="img/thumbs/mini12864_case_front.png">
-            </a>
-        </td>
-        <td width=639>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/mini12864_case_front.stl">mini12864_case_front.stl</a>
-        </td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/mini12864_case_rear.png">
-                <img src="img/thumbs/mini12864_case_rear.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/mini12864_case_rear.stl">mini12864_case_rear.stl</a>
-        </td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/mini12864_spacer.png">
-                <img src="img/thumbs/mini12864_spacer.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/mini12864_spacer.stl">mini12864_spacer.stl</a>
-        </td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/main/printed_parts_reference/img/%5Ba%5D_mini12864_case_hinge.png">
-                <img src="img/thumbs/%5Ba%5D_mini12864_case_hinge.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/part_stls/%5Ba%5D_mini12864_case_hinge.stl">[a]_mini12864_case_hinge.stl</a>
         </td>
     </tr>
 </table>
