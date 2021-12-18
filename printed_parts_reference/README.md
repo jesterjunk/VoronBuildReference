@@ -1,5 +1,6 @@
-This is a reference for hopefully all printed parts needed for a functional and decorated Voron 2.4 build.
-<br><br>
+This is a reference for hopefully all of the printed parts needed for a functional and decorated Voron 2.4 build.<br><br>
+
+<img src="https://raw.githubusercontent.com/jesterjunk/VoronBuildReference/VBR/printed_parts_reference/stl_naming_scheme/03.png"></img><br><br>
 
 - [CLIPS](#clips)
     - [a]_z_belt_clip_lower_x4.stl
